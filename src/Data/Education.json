@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "coursename":"Electronics and Communication Engineering",
+        "courseyear":"2021-2025",
+        "institute":"Sri Krishna College of Engineering and Technology",
+        "grade":" "
+    },
+    {
+        "id":2,
+        "coursename":"Higher Secondary-ISC",
+        "courseyear":"2020",
+        "institute":"Crescent Castle Public School",
+        "grade":"91% Percentage"
+    },
+    {
+        "id":3,
+        "coursename":"High School-ICSE",
+        "courseyear":"2008-2018",
+        "institute":"Nazareth Convent High School and Junior College",
+        "grade":"87% Percentage"
+    }
+]
